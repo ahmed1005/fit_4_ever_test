@@ -1,0 +1,9 @@
+body  {
+	padding: 20px;
+	margin: 10px;
+	columns: 300px 2;
+}
+
+.a {
+	font: 10px;
+}
